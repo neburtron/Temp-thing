@@ -1,0 +1,58 @@
+{
+    "character": {
+        "name": "Aldric Thornwood",
+        "age": 34,
+        "gender": "male",
+        "background": {
+            "hometown": "Riverbend",
+            "profession": "wandering merchant",
+            "family": {
+                "parents": "deceased",
+                "siblings": ["Estrid Thornwood"]
+            },
+            "history": "Aldric grew up in the bustling town of Riverbend, where his family ran a modest but successful trading business. After a tragic fire claimed his parents' lives, he and his younger sister Estrid managed to rebuild the business. Aldric, however, felt the call of the open road and chose to become a wandering merchant, leaving the stationary business to Estrid. His travels have made him a shrewd negotiator and a man of many stories."
+        },
+        "personality": {
+            "traits": [
+                "charismatic",
+                "resourceful",
+                "curious",
+                "pragmatic"
+            ],
+            "motivations": "Aldric is driven by a desire to amass wealth and knowledge. He dreams of one day returning to Riverbend as a wealthy and respected merchant, with tales and riches from faraway lands.",
+            "flaws": [
+                "trust issues",
+                "restlessness",
+                "overly pragmatic at times"
+            ],
+            "compared_to": ["Han Solo (Star Wars)", "Mat Cauthon (Wheel of Time)", "Varric Tethras (Dragon Age)"]
+        },
+        "possessions": {
+            "cart": "wooden cart with reinforced wheels",
+            "horse": "chestnut mare named Bramble",
+            "wares": [
+                "spices from the southern deserts",
+                "fine silks from the eastern realms",
+                "rare herbs and medicinal plants"
+            ],
+            "gold_coins": 150
+        },
+        "current_location": {
+            "town": "Stonebridge",
+            "population": 550,
+            "houses": 160
+        },
+        "current_plans": {
+            "short_term": [
+                "set up a stall in the town square to sell wares",
+                "gather information on local trade opportunities",
+                "explore the town and make connections with influential locals"
+            ],
+            "long_term": [
+                "establish a profitable trade route",
+                "build a reputation as a trustworthy and exotic merchant",
+                "acquire unique items to sell back in Riverbend"
+            ]
+        }
+    }
+}

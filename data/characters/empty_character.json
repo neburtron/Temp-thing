@@ -1,0 +1,44 @@
+{
+    "character": {
+        "name": "",
+        "age": "",
+        "gender": "",
+        "background": {
+            "hometown": "",
+            "profession": "",
+            "family": {
+
+
+            },
+            "history": ""
+        },
+        "personality": {
+            "traits": [
+                ""
+            ],
+            "motivations": "",
+            "flaws": [
+                "",
+                "",
+                ""
+            ],
+            "compared_to": [""]
+        },
+        "possessions": {
+            
+        },
+        "current_location": {
+            "town": "Stonebridge"
+
+        },
+        "current_plans": {
+
+            "short_term": [
+
+            ],
+            "long_term": [
+
+            ]
+        }
+    }
+}

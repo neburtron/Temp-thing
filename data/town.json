@@ -1,0 +1,155 @@
+{
+    "town": {
+        "name": "Stonebridge",
+        "population": 550,
+        "description": "A small, self-sufficient farming town with modest trade. Most buildings are made of wood or stone.",
+        "buildings": {
+            "houses": {
+                "count": 160,
+                "has_json": false
+            },
+            "shops": {
+                "shoemakers": {
+                    "count": 3
+                },
+                "furriers": {
+                    "count": 2
+                },
+                "maidservants": {
+                    "count": 2
+                },
+                "tailors": {
+                    "count": 2
+                },
+                "barbers": {
+                    "count": 2
+                },
+                "jewelers": {
+                    "count": 1
+                },
+                "taverns_restaurants": {
+                    "count": 1
+                },
+                "old_clothes": {
+                    "count": 1
+                },
+                "pastry_cooks": {
+                    "count": 1
+                },
+                "masons": {
+                    "count": 1
+                },
+                "carpenters": {
+                    "count": 1
+                }
+            },
+            "farms": {
+                "description": "Numerous farms surrounding the town, providing most of the town's food supply."
+            },
+            "storage_buildings": {
+                "description": "Several storage buildings for grain, tools, and trade goods."
+            }
+        },
+        "landmarks": [
+            {
+                "name": "Stonebridge Market Square",
+                "description": "The central hub of the town where merchants set up stalls and townsfolk gather for trade and socializing.",
+                "has_json": false
+            },
+            {
+                "name": "The Old Well",
+                "description": "An ancient well at the center of town, said to have been there since before the town was founded. It's a popular gathering spot.",
+                "has_json": false
+            },
+            {
+                "name": "Stonebridge Chapel",
+                "description": "A small, quaint chapel where townsfolk come to worship and celebrate important events.",
+                "has_json": false
+            },
+            {
+                "name": "Mayor's House",
+                "description": "The residence of the town's mayor, a modest but well-kept house near the market square.",
+                "has_json": false
+            },
+            {
+                "name": "Blackwood Forest",
+                "description": "A dense forest on the outskirts of town, rumored to be home to various wildlife and possibly some hidden secrets.",
+                "has_json": false
+            },
+            {
+                "name": "Old Mill",
+                "description": "An old, but functional mill by the river, used by the townsfolk to grind grain.",
+                "has_json": false
+            },
+            {
+                "name": "River Crossing",
+                "description": "A small bridge over the river that connects Stonebridge to neighboring towns and trade routes.",
+                "has_json": false
+            },
+            {
+                "name": "Abandoned House",
+                "description": "A decrepit house on the edge of town, said to be haunted. It has been empty for years.",
+                "has_json": false
+            }
+        ],
+        "points_of_interest": [
+            {
+                "name": "Farmer's Cooperative",
+                "description": "A communal building where farmers gather to discuss crop yields, share resources, and plan for planting seasons.",
+                "has_json": false
+            },
+            {
+                "name": "Trading Post",
+                "description": "A small post where occasional traders from other towns come to exchange goods. Run by the town's only full-time merchant.",
+                "has_json": false
+            },
+            {
+                "name": "Healer's Hut",
+                "description": "A small hut where the town's healer lives and provides medical aid to those in need. Known for herbal remedies.",
+                "has_json": false
+            },
+            {
+                "name": "Stonebridge Schoolhouse",
+                "description": "A one-room schoolhouse where the town's children are taught basic reading, writing, and arithmetic.",
+                "has_json": false
+            },
+            {
+                "name": "Bakery",
+                "description": "A cozy bakery known for its delicious bread and pastries, a favorite morning stop for many townsfolk.",
+                "has_json": false
+            },
+            {
+                "name": "The Gilded Boar Tavern",
+                "description": "The town's only tavern, a lively place where locals gather to drink, eat, and share stories.",
+                "has_json": false
+            }
+        ],
+        "characters": [
+            {
+                "name": "Mayor Eliza Hart",
+                "description": "The current mayor of Stonebridge, known for her fair leadership and dedication to the town's well-being.",
+                "has_json": false
+            },
+            {
+                "name": "Gareth the Blacksmith",
+                "description": "A skilled blacksmith who runs the town's forge, creating tools, horseshoes, and the occasional weapon.",
+                "has_json": false
+            },
+            {
+                "name": "Mira the Healer",
+                "description": "A knowledgeable healer and herbalist, respected for her ability to treat a wide range of ailments.",
+                "has_json": false
+            },
+            {
+                "name": "Old Man Hobb",
+                "description": "A reclusive former adventurer with many stories, often found near the Old Well or the tavern.",
+                "has_json": false
+            },
+            {
+                "name": "Lena the Baker",
+                "description": "Owner of the town's bakery, famous for her delicious bread and pastries.",
+                "has_json": false
+            }
+        ]
+    }
+}
