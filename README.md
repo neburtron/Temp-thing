@@ -15,3 +15,26 @@ I got a start to it. There's some json formatting started, I moved over the LLM 
 3. Evaluation
 4. Update Data
 
+
+
+
+
+test 1
+
+Just 1 action
+
+Get character details
+Get world details
+Get 1st prompt
+generate 1st action
+print
+
+Steps:
+DONE
+0. Write instructions 
+
+NOT DONE
+1. Choose what bits of info are relevant
+2. Input those into array
+3. call LLM + save
+

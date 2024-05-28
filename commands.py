@@ -22,6 +22,15 @@ def load(filename):
         print(f"Error decoding JSON from {filename}.")
         return None
     
+
+def write(file_name, content):
+    try:
+        with open(file_name, 'w') as file:
+            file.write(content)
+        print(f"Content successfully written to {file_name}")
+    except Exception as e:
+        print(f"Error occurred: {e}")
+
 def Roll_Dice(sides):
     X = random.randrange(1, sides)
     return (X)
